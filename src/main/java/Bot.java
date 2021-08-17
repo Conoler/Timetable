@@ -7,7 +7,7 @@ public class Bot extends EventListener {
     public static void main(String[] args)
             throws Exception
     {
-        JDA jda = JDABuilder.createDefault("ODc1NzA4ODAxNzU4Njc0OTU1.YRZdYA.iR3AISuAqOtX0Jkh9dSUmGQYp7c").addEventListeners(new TListener()).build();
+        JDA jda = JDABuilder.createDefault("ODc1NzA4ODAxNzU4Njc0OTU1.YRZdYA.O8Pxg8q1oyoDaMrqmISFDVSZF44").addEventListeners(new TListener()).build();
 
     }
 }
